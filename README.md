@@ -14,5 +14,5 @@ However, you can copy and modify them following the instructions in the course.
 You can also check a final version of the course project [here](https://konstantink1.pythonanywhere.com/)
 
 To test functionality you can use the following:
-- ** LOGIN: test **
-- ** PASSWORD: Qwerty78* **
+- **LOGIN: test**
+- **PASSWORD: Qwerty78***
