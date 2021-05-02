@@ -4,7 +4,7 @@ This is a repository for [Django for Everybody course](https://www.coursera.org/
 
 Here you can find all necessary final solutions for the assignments for courses 2-4, including the final AdList assignment.
 
-P.S. I did not include the following files to the repository for the reason that they are containing secret keys:
+I did not include the following files to the repository for the reason that they are containing secret keys:
 - mysite/mysite/settings.py
 - mysite/mysite/github_settings.py
 - batch/batch/settings.py
