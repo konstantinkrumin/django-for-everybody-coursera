@@ -16,3 +16,13 @@ You can also check a final version of the course project [here](https://konstant
 To test functionality you can use the following:
 - **LOGIN: test**
 - **PASSWORD: Qwerty78***
+
+**ADLIST Screenshots:**
+
+**(i) Main Page:**
+
+![Main Page](https://i.imgur.com/BE96hNR.jpg)
+
+**(ii) Ad Example:**
+
+![Ad Example](https://i.imgur.com/6ja2rga.jpg)
