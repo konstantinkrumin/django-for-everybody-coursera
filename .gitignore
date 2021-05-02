@@ -1,0 +1,5 @@
+# IGNORE THE FOLLOWING FILES
+
+mysite/mysite/settings.py
+mysite/mysite/github_settings.py
+batch/batch/settings.py
